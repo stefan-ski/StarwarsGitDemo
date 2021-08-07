@@ -155,7 +155,7 @@ hello
 Insert some text here
 
 ```{r}
-Hello the quick brown fox jumps over the lazy dog
+#Hello the quick brown fox jumps over the lazy dog
 ```
 
 
